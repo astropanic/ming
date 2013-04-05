@@ -1,0 +1,19 @@
+{
+  "name": "ming",
+  "version": "0.0.0",
+  "description": "Availability monitoring for HTTP(S) services",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": "",
+  "keywords": [
+    "mongodb",
+    "availability",
+    "monitoring",
+    "http",
+    "https"
+  ],
+  "author": "Wojciech Pietrzak",
+  "license": "BSD"
+}
